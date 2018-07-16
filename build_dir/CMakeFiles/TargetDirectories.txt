@@ -1,0 +1,3 @@
+/mnt/e/Destkop/SNAKE/SNAKE-SFML/build_dir/CMakeFiles/edit_cache.dir
+/mnt/e/Destkop/SNAKE/SNAKE-SFML/build_dir/CMakeFiles/rebuild_cache.dir
+/mnt/e/Destkop/SNAKE/SNAKE-SFML/build_dir/CMakeFiles/SNAKE_SFML.dir

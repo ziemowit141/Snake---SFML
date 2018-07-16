@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/SNAKE_SFML.dir/main.cpp.o CMakeFiles/SNAKE_SFML.dir/Snake.cpp.o CMakeFiles/SNAKE_SFML.dir/Food.cpp.o  -o SNAKE_SFML /usr/lib/x86_64-linux-gnu/libsfml-graphics.so /usr/lib/x86_64-linux-gnu/libsfml-window.so /usr/lib/x86_64-linux-gnu/libsfml-system.so 

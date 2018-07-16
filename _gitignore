@@ -1,0 +1,4 @@
+build_dir
+cmake-build-debug
+.idea
+.gitignore

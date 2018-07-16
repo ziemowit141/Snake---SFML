@@ -1,0 +1,3 @@
+/mnt/c/Users/TwojMistrz/Desktop/SNAKE/SNAKE-SFML/CMakeFiles/edit_cache.dir
+/mnt/c/Users/TwojMistrz/Desktop/SNAKE/SNAKE-SFML/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/TwojMistrz/Desktop/SNAKE/SNAKE-SFML/CMakeFiles/SNAKE_SFML.dir
